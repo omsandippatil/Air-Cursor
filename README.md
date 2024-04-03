@@ -1,35 +1,27 @@
-```
-# Welcome to FingerMagic! 🖐️✨
+# Air Cursor 🌬️💻
 
-## What is FingerMagic?
+Welcome to the Air Cursor repository, where we defy gravity and navigate our digital world with a flick of the wrist! Ever felt like your mouse was just too grounded? Fear not, for Air Cursor is here to lift your computing experience to new heights—literally!
 
-FingerMagic is the result of combining cutting-edge technology with a touch of wizardry to create a magical experience where your fingers control the digital realm! It's like having a tiny sorcerer residing in your webcam, ready to interpret your hand gestures and turn them into computer commands!
+## What is Air Cursor?
 
-## How does it work?
+Air Cursor is not your ordinary mouse replacement. It's a revolutionary tool that lets you control your cursor using the power of air! Say goodbye to wrist strain and hello to hand-waving glory. Just imagine, swiping, clicking, and scrolling through your screen as effortlessly as conducting a symphony.
 
-Using the power of Mediapipe and PyAutoGUI, FingerMagic tracks the movement of your index finger with the precision of a mystical oracle. Simply wave your finger in front of your webcam, and watch in amazement as your cursor dances across the screen as if guided by an unseen force!
+## How Does it Work?
 
-## Getting Started
+It's simple—magic! Okay, maybe not magic, but close enough. Air Cursor utilizes cutting-edge technology (and a sprinkle of fairy dust) to track your hand movements in the air. Just wave your hand around like you're orchestrating a grand gesture, and watch as your cursor dances to the rhythm of your motions.
 
-1. **Clone the Repository**: Cast your GitHub spell and clone this repository onto your local machine.
+## Features:
 
-2. **Install Dependencies**: Brew your potion by installing the necessary ingredients with `pip install -r requirements.txt`.
+- **Air-tastic Navigation:** Navigate through your digital realm with the grace of a flying unicorn.
+- **Wave and Click:** Click, drag, and drop with the flick of a wrist. No buttons required!
+- **Scroll with a Swish:** Scroll through endless cat videos with a magical swish of your hand.
+- **Precision Spellcasting:** Need pixel-perfect accuracy? Fear not, for Air Cursor obeys your every command with utmost precision.
 
-3. **Run the Spell**: Open your terminal and run `python finger_magic.py`. Don't forget to channel your inner wizard!
+## Getting Started:
 
-4. **Unleash the Magic**: Wave your finger and behold the wonders of FingerMagic as your cursor obeys your every gesture!
+To join the aerial revolution, simply clone this repository, install the necessary dependencies (hint: you might need a wand), and start waving your way to computing nirvana!
 
-## Contribute
-
-Feeling like Merlin or Gandalf and want to add your own magical touch to FingerMagic? We welcome contributions from fellow enchanters of the code! Whether it's enhancing the tracking algorithm or adding new spellbinding features, your wizardry is most welcome!
-
-## Spells of Gratitude
-
-We extend our deepest gratitude to the wizards and sorceresses of OpenCV, Mediapipe, and PyAutoGUI for their magical libraries that made FingerMagic possible. 🙌✨
-
-## Disclaimer
-
-While FingerMagic is designed to add a touch of enchantment to your computing experience, we cannot be held responsible for any unintended transfigurations or summonings. Use with caution, and remember: with great power comes great responsibility! 🧙‍♂️💫
-
-Now, go forth and let your fingers weave the threads of digital magic! May your code be bug-free and your spells be ever potent! ✨🔮
-```
+```bash
+git clone https://github.com/yourusername/air-cursor.git
+cd air-cursor
+npm install magic-wand
