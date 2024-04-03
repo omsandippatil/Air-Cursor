@@ -22,9 +22,9 @@ It's simple—magic! Okay, maybe not magic, but close enough. Air Cursor utilize
 To join the aerial revolution, simply clone this repository, install the necessary dependencies (hint: you might need a wand), and start waving your way to computing nirvana!
 
 ```bash
-git clone https://github.com/yourusername/air-cursor.git
-cd air-cursor
-npm install magic-wand
+git clone https://github.com/omsandippatil/Air-Cursor
+cd Air-Cursor
+python aircursor.py
 ```
 ## Disclaimer: ⚠️
 Warning: prolonged usage of Air Cursor may cause sudden urges to break into spontaneous dance routines and/or attempt to levitate other non-digital objects. Use with caution! 🧹
