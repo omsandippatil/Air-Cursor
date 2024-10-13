@@ -76,8 +76,8 @@ while True:
     cv2.imshow('Hand Tracking', frame)q
 
     # Break loop if 'q' key is pressed
-    if cv2.waitKey(1) & 0xFF == ord('q'):
-        break
+    if cv2.waitKey(30) & 0xff == 27:  # Exit on 'Esc' key
+            break
 
 # Release video capture and close all OpenCV windows
 cap.release()
